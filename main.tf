@@ -3,8 +3,8 @@
 #AWS crednetials
 provider "aws" {
   region = "ap-south-1"
-  access_key = "AKIAR5AYRTKGIIPQCHTU"
-  secret_key = "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"
+  access_key = "Accesskey from AWS"
+  secret_key = "secret key from AWS"
 }
 
 #variable declaration
